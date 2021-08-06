@@ -43,5 +43,4 @@ Semestre   | Situação | Melhor disciplina (nota/total)
 9º Semestre  |   ❌   |
 10º Semestre |   ❌   |
 
-## Perfil antigo
-[mathaddicted](https://github.com/mathaddicted/)
+[Perfil antigo](https://github.com/mathaddicted/)
