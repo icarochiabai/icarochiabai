@@ -1,10 +1,11 @@
 # `print("Hello there! 👋")`
-
 <div>
   <a href="https://github.com/icarochiabai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<img align="right" width="180em" src="https://64.media.tumblr.com/398c864547a3c187c8f301191dc2e805/tumblr_inline_pbinfandsp1suiyhg_500.gifv">
+  
 
 ## Sobre mim 👨‍🔧
 Me chamo **Ícaro Chiabai**, tenho 19 anos e atualmente sou estudante do curso de **Engenharia de Computação** da **Universidade Estadual de Campinas (UNICAMP)**. <br> <br>
@@ -14,8 +15,16 @@ Me interesso por:
 * 🖼 Computação gráfica
 * 💻 Hardware
 
-Possuo facilidade nas áreas de **automação** e **programação orientada à objetos (POO)**. Tenho alguns projetos que incluem **computação gráfica misturada com POO** e um **Sistema de Gestão Escolar**.
+Possuo facilidade nas áreas de **automação** e **programação orientada à objetos (POO)**. Tenho alguns projetos que incluem **computação gráfica misturada com POO** e um **Sistema de Gestão Escolar** para uma escola local.
 
+Minhas redes:
+* [Currículo Lattes]()
+* [Linkedin]()
+* [Site pessoal]()
+
+## Carreira 💹
+  Aberto ao mercado.
+  
 ## Linguagens 👨‍💻
  Linguagem | Fluência
  --------- | --------
@@ -43,4 +52,4 @@ Semestre   | Situação | Melhor disciplina (nota/total)
 9º Semestre  |   ❌   |
 10º Semestre |   ❌   |
 
-[Perfil antigo](https://github.com/mathaddicted/)
+[Perfil antigo 👥](https://github.com/mathaddicted/)
