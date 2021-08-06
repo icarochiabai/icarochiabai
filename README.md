@@ -1,5 +1,11 @@
 # `print("Hello there! 👋")`
 
+<div>
+  <a href="https://github.com/icarochiabai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## Sobre mim 👨‍🔧
 Me chamo **Ícaro Chiabai**, tenho 19 anos e atualmente sou estudante do curso de **Engenharia de Computação** da **Universidade Estadual de Campinas (UNICAMP)**. <br> <br>
 Me interesso por:
@@ -13,11 +19,11 @@ Possuo facilidade nas áreas de **automação** e **programação orientada à o
 ## Linguagens 👨‍💻
  Linguagem | Fluência
  --------- | --------
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)| A | teste
- ![Teste](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)| A
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)| A
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| A
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)| A
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)| Muito alta
+ ![Teste](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)| Baixa
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)| Alta
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| Muito alta
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)| Muito alta
 
 <div>
   <img align="right" src="https://media.tenor.com/images/6859e140b3e9232d4faae8ea88825a96/tenor.gif">
@@ -36,3 +42,6 @@ Semestre   | Situação | Melhor disciplina (nota/total)
 8º Semestre  |   ❌   |
 9º Semestre  |   ❌   |
 10º Semestre |   ❌   |
+
+## Perfil antigo
+[mathaddicted](https://github.com/mathaddicted/)
