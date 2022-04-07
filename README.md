@@ -26,13 +26,13 @@ Minhas redes:
   Aberto ao mercado.
   
 ## Linguagens 👨‍💻
- Linguagem | Fluência
+ Linguagem | Programo?
  --------- | --------
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)| Muito alta
- ![Teste](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)| Baixa
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)| Alta
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| Muito alta
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)| Muito alta
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)| Sim
+ ![Teste](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)| Sim
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)| Mais ou menos
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| --Sim-- Não é linguagem
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)| Sim
 
 <div>
   <img align="right" src="https://media.tenor.com/images/6859e140b3e9232d4faae8ea88825a96/tenor.gif">
