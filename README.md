@@ -31,7 +31,7 @@ Minhas redes:
  ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)| Sim
  ![Teste](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)| Sim
  ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)| Mais ou menos
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| --Sim-- Não é linguagem
+ ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| ~~Sim~~ Não é linguagem
  ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)| Sim
 
 <div>
