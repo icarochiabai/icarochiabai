@@ -8,7 +8,7 @@
   
 
 ## Sobre mim 👨‍🔧
-Me chamo **Ícaro Chiabai**, tenho 19 anos e atualmente sou estudante do curso de **Engenharia de Computação** da **Universidade Estadual de Campinas (UNICAMP)**. <br> <br>
+Me chamo **Ícaro Chiabai**, tenho 20 anos e atualmente sou estudante do curso de **Engenharia de Computação** da **Universidade Estadual de Campinas (UNICAMP)**. <br> <br>
 Me interesso por:
 * 🔒 Segurança
 * 🤖 Automação
@@ -39,11 +39,11 @@ Minhas redes:
 </div>
  
 ## Situação acadêmica 🧾
-Semestre   | Situação | Melhor disciplina (nota/total)
----------  | :--------: | ------------------------
-1º Semestre  |   ✔    | Algoritmos e Programação de Computadores (10.0/10.0)
-2º Semestre  |   ⏳   |
-3º Semestre  |   ❌   |
+Semestre   | Situação |
+---------  | :--------: 
+1º Semestre  |   ✔    | 
+2º Semestre  |   ✔    |
+3º Semestre  |   ⏳   |
 4º Semestre  |   ❌   |
 5º Semestre  |   ❌   |
 6º Semestre  |   ❌   |
