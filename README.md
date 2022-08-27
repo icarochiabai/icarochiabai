@@ -38,18 +38,4 @@ Minhas redes:
   <img align="right" src="https://media.tenor.com/images/6859e140b3e9232d4faae8ea88825a96/tenor.gif">
 </div>
  
-## Situação acadêmica 🧾
-Semestre   | Situação |
----------  | :--------: 
-1º Semestre  |   ✔    | 
-2º Semestre  |   ✔    |
-3º Semestre  |   ⏳   |
-4º Semestre  |   ❌   |
-5º Semestre  |   ❌   |
-6º Semestre  |   ❌   |
-7º Semestre  |   ❌   |
-8º Semestre  |   ❌   |
-9º Semestre  |   ❌   |
-10º Semestre |   ❌   |
-
 [Perfil antigo 👥](https://github.com/mathaddicted/)
