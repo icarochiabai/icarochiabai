@@ -20,7 +20,7 @@ Possuo facilidade nas áreas de **automação** e **programação orientada à o
 Minhas redes:
 * [Currículo Lattes]()
 * [Linkedin]()
-* [Site pessoal]()
+* [Site pessoal](https://icarochiabai.github.io/reactapp/)
 
 ## Carreira 💹
   Aberto ao mercado.
