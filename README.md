@@ -56,4 +56,6 @@
 
 <div name="still-reading" align="left">
     <img src="assets/still-reading.gif"/>
+    <br>
+    <sup><small>I USE ARCHLINUX BTW!!!!11</small></sup>
 </div>
