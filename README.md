@@ -17,10 +17,10 @@
     <img src="assets/education.gif"/>
     <ul>
         <li>
-            <p>studying <b>Computer Engineering</b> @ <a href="https://www.unicamp.br/unicamp/" target="_blank"><i>Unicamp</i></a</p>
+            studying <b>Computer Engineering</b> @ <a href="https://www.unicamp.br/unicamp/" target="_blank"><i>Unicamp</i></a>
         </li>
         <li>
-            <p>certificate in <b>Biotechnology</b> @ <a href="https://www.ifes.edu.br/" target="_blank"><i>IFES</i></a</p>
+            certificate in <b>Biotechnology</b> @ <a href="https://www.ifes.edu.br/" target="_blank"><i>IFES</i></a>
         </li>
     </ul>
     <br>
@@ -42,11 +42,11 @@
     </picture>
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&text_color=ebf5ee"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&hide_border=true&layout=compact&text_color=ebf5ee"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&text_color=231f20"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&hide_border=true&layout=compact&text_color=231f20"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center"/>
