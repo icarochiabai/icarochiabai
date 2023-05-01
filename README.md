@@ -31,22 +31,22 @@
     <br>
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=transparent&title_color=bb4430&icon_color=bb4430&hide_border=true&rank_icon=github&text_color=ebf5ee"
+      srcset="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=transparent&title_color=bb4430&icon_color=bb4430&hide_border=true&rank_icon=github&custom_title=My+GitHub+stats&text_color=ebf5ee"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=transparent&title_color=bb4430&icon_color=bb4430&hide_border=true&rank_icon=github&text_color=231f20"
+      srcset="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=transparent&title_color=bb4430&icon_color=bb4430&hide_border=true&rank_icon=github&custom_title=My+GitHub+stats&text_color=231f20"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center"/>
     </picture>
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&hide_border=true&layout=compact&text_color=ebf5ee"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&hide_border=true&layout=compact&custom_title=...and+most+used+languages&langs_count=10&count_weight=1&text_color=ebf5ee"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&hide_border=true&layout=compact&text_color=231f20"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&theme=transparent&title_color=bb4430&hide_border=true&layout=compact&custom_title=...and+most+used+languages&langs_count=10&count_weight=1&text_color=231f20"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center"/>
