@@ -1,41 +1,14 @@
-# `print("Hello there! 👋")`
-<div>
-  <a href="https://github.com/icarochiabai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarochiabai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarochiabai&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<img align="right" width="180em" src="https://64.media.tumblr.com/398c864547a3c187c8f301191dc2e805/tumblr_inline_pbinfandsp1suiyhg_500.gifv">
-  
+<img align="center" src="assets/welcome.gif">
 
-## Sobre mim 👨‍🔧
-Me chamo **Ícaro Chiabai**, tenho 20 anos e atualmente sou estudante do curso de **Engenharia de Computação** da **Universidade Estadual de Campinas (UNICAMP)**. <br> <br>
-Me interesso por:
-* 🔒 Segurança
-* 🤖 Automação
-* 🖼 Computação gráfica
-* 💻 Hardware
+## `whoami`
 
-Possuo facilidade nas áreas de **automação** e **programação orientada à objetos (POO)**. Tenho alguns projetos que incluem **computação gráfica misturada com POO** e um **Sistema de Gestão Escolar** para uma escola local.
+<img align="right" src="https://media.tenor.com/DpJdyKQKgYkAAAAi/cat-jump.gif"/>
 
-Minhas redes:
-* [Currículo Lattes]()
-* [Linkedin]()
-* [Site pessoal](https://icarochiabai.github.io/reactapp/)
++ funny guy with high aspirations
++ coding developer that loves _creative coding_, _design_, _FOSS_ & _automation_
++ beautiful and well planned things
++ evoluted caveman who learned how to code
 
-## Carreira 💹
-  Aberto ao mercado.
-  
-## Linguagens 👨‍💻
- Linguagem | Programo?
- --------- | --------
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)| Sim
- ![Teste](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)| Sim
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)| Mais ou menos
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)| ~~Sim~~ Não é linguagem
- ![Teste](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)| Sim
-
-<div>
-  <img align="right" src="https://media.tenor.com/images/6859e140b3e9232d4faae8ea88825a96/tenor.gif">
-</div>
- 
-[Perfil antigo 👥](https://github.com/mathaddicted/)
+## `education`
++ studying _Computer Engineering_ @ <a href="https://www.unicamp.br/unicamp/" target="_blank"><i>Unicamp</i></a>
++ certificate in _Biotechnology_ @ <a href="https://www.ifes.edu.br/" target="_blank"><i>IFES</i></a>
