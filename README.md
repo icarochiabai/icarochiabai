@@ -1,8 +1,11 @@
-<img align="center" src="assets/welcome.gif">
+<div name="header" align="center">
+    <img height="" src="assets/welcome.gif"/>
+    <p>it's nice to have you here.</p>
+</div>
 
-## `whoami`
-
-<img align="right" src="https://media.tenor.com/DpJdyKQKgYkAAAAi/cat-jump.gif"/>
+<div name="whoami" align="left">
+    <img src="assets/whoami.gif"/>
+</div>
 
 + funny guy with high aspirations
 + coding developer that loves _creative coding_, _design_, _FOSS_ & _automation_
