@@ -4,7 +4,7 @@
 
 <div name="whoami" align="right">
     <p>
-        Computer Engineering Student @ Unicamp. I'm very serious about cybersecurity and front-end development.   
+        Computer Engineering @ Unicamp. I'm very serious about cybersecurity and front-end development.<br>I use Arch by the way.  
     </p>
     <p>
         Check out my <a href="https://icarochiabai.github.io/" target="_blank"><i>BLOG</i>.</a>
